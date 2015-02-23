@@ -1,0 +1,3 @@
+import urllib
+response=urllib.urlopen("/media/New Volume/IT'S PYTHON/anand-python-tutorial/2. Working with Data — Python Practice Book.html")
+print response.headers
